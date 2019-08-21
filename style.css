@@ -1,0 +1,15 @@
+.container{
+    margin-bottom: 8em;
+}
+.link-space{
+    margin-bottom: 2em;
+}
+.header{
+    padding-top: 6em;
+}
+li{
+    list-style-type: none;
+}
+.rounded-circle{
+    width: 75%;
+}
